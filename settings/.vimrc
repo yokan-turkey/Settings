@@ -84,3 +84,7 @@ set backspace=indent,eol,start
 "ビープ音すべてを無効にする
 set visualbell t_vb=
 set noerrorbells
+
+” スペルチェック
+set spelllang+=cjk
+set spell 
