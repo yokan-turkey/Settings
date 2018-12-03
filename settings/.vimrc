@@ -85,6 +85,6 @@ set backspace=indent,eol,start
 set visualbell t_vb=
 set noerrorbells
 
-” スペルチェック
+" スペルチェック
 set spelllang+=cjk
 set spell 
